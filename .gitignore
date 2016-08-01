@@ -1,0 +1,10 @@
+*.[ao]
+*.bin
+*.swap
+*~
+*.ko
+*.order
+*.symvers
+.*.cmd
+.tmp_versions
+*.mod.*
