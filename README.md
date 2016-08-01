@@ -1,2 +1,2 @@
 # LDD-GO
-My linux device learning journey.
+My linux device driver learning journey.
